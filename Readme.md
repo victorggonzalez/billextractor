@@ -9,7 +9,7 @@ Effortlessly extract and process information from bills using AI.
 - **Powered by OpenAI**: Leverages advanced language models for accurate data extraction.
 
 ## How It Works 🛠️
-1. Upload a bill or receipt in PDF format.
+1. Upload a bill or receipt in PDF format. You can use the sample bill provided in the data folder.
 2. The AI processes the document and extracts relevant information.
 3. View or download the extracted data in a structured format.
 
@@ -34,14 +34,6 @@ Effortlessly extract and process information from bills using AI.
    ```bash
    streamlit run app.py
    ```
-
-## Example Output 📜
-Here’s an example of the extracted data:
-| Field         | Value          |
-|---------------|----------------|
-| Date          | 2023-10-01     |
-| Vendor        | ABC Supplies   |
-| Total Amount  | $123.45        |
 
 ## Contributing 🤝
 Contributions are welcome! To contribute:
