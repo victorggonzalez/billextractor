@@ -5,3 +5,4 @@ httpx
 langchain
 langchain_openai
 regex
+pypdf
